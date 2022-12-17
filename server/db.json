@@ -1,0 +1,67 @@
+{
+    "documents1": [
+        {
+            "id": "1",
+            "status": "active",
+            "sum": 10,
+            "qty": 5,
+            "volume": 7,
+            "name": "apple",
+            "delivery_date": "10.09.2023",
+            "currency": "RUB"
+        },
+        {
+            "id": "2",
+            "status": "archive",
+            "sum": 8,
+            "qty": 2,
+            "volume": 45,
+            "name": "samsung",
+            "delivery_date": "10.09.2024",
+            "currency": "RUB"
+        },
+        {
+            "id": "3",
+            "status": "active",
+            "sum": 34,
+            "qty": 4,
+            "volume": 8,
+            "name": "huawei",
+            "delivery_date": "01.11.2028",
+            "currency": "RUB"
+        }
+    ],
+    "documents2": [
+        {
+            "id": "4",
+            "status": "archive",
+            "sum": 20,
+            "qty": 10,
+            "volume": 14,
+            "name": "xiomi",
+            "delivery_date": "14.01.2026",
+            "currency": "RUB"
+        },
+        {
+            "id": "5",
+            "status": "archive",
+            "sum": 100,
+            "qty": 50,
+            "volume": 45,
+            "name": "iphone",
+            "delivery_date": "03.08.2027",
+            "currency": "RUB"
+        },
+        {
+            "id": "6",
+            "status": "active",
+            "sum": 58,
+            "qty": 34,
+            "volume": 12,
+            "name": "honor",
+            "delivery_date": "12.12.2029",
+            "currency": "RUB"
+        }
+    ],
+    "cancel": []
+}
