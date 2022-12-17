@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viditasystems-test/static/css/main.b8589cb4.css",
+    "main.js": "/viditasystems-test/static/js/main.b7f5564d.js",
+    "index.html": "/viditasystems-test/index.html",
+    "main.b8589cb4.css.map": "/viditasystems-test/static/css/main.b8589cb4.css.map",
+    "main.b7f5564d.js.map": "/viditasystems-test/static/js/main.b7f5564d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8589cb4.css",
+    "static/js/main.b7f5564d.js"
+  ]
+}
